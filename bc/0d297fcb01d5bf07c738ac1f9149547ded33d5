@@ -1,0 +1,75 @@
+.github/ISSUE_TEMPLATE/config.yml
+  s_86c2720e1e5f85::t_1cce9c68b3a31a 1
+pom.xml
+  s_86c2720e1e5f85::t_015f4020077ec7 15-16,20-31,35,41
+  s_86c2720e1e5f85::t_1db48869bee1aa 109-116
+  s_86c2720e1e5f85::t_30f32f5f6bbf08 62-65,72-84,106-108
+  s_86c2720e1e5f85::t_82f6a5cb87ab24 66-71,85-105
+src/test/java/com/rahilsh/pubsub/core/TopicTest.java
+  s_86c2720e1e5f85::t_d93490a50aa2f8 1-295
+LICENSE
+  s_86c2720e1e5f85::t_6d9a981d6e6d64 1-21
+.github/ISSUE_TEMPLATE/feature_request.yml
+  s_86c2720e1e5f85::t_9645663494902f 1-23
+README.md
+  s_86c2720e1e5f85::t_c6c0d8116da078 1,3-9,13-76,84-104,106-107,109,111
+  s_86c2720e1e5f85::t_4981db64eeed89 77-83
+.github/ISSUE_TEMPLATE/bug_report.yml
+  s_86c2720e1e5f85::t_136675c82a742c 1-39
+src/main/java/com/rahilsh/pubsub/subscriber/FileSubscriber.java
+  s_86c2720e1e5f85::t_c910793d4d5ff8 1-49
+src/test/java/com/rahilsh/pubsub/core/PubSubBrokerTest.java
+  s_86c2720e1e5f85::t_3263fbb1495b53 1-155
+CONTRIBUTING.md
+  s_86c2720e1e5f85::t_3f518b6cc086cf 1-44
+CODE_OF_CONDUCT.md
+  s_86c2720e1e5f85::t_7432708c688422 1-42
+src/main/java/com/rahilsh/pubsub/core/PubSubBroker.java
+  s_86c2720e1e5f85::t_9cc4adca13002d 1-5,7,13-17,23-26,31,63-64,66,77,79-80,94,97-113,115-124,126-127,129-130
+  s_86c2720e1e5f85::t_8e177bef21510d 18-21,29,34-35,38,45-51,55,57-58,71,82-83,96,125,128
+  s_86c2720e1e5f85::t_340a632056b8e7 6,8-12,22,27-28,30,32-33,36-37,39-44,52-54,56,59-62,65,67-70,72-76,78,81,84-93,95,114
+src/main/java/com/rahilsh/pubsub/core/Topic.java
+  s_86c2720e1e5f85::t_e064785a264428 1-7,11-17,22,32-39,41-43,45-47,49,55,57,61-63,65-72,75-76,78-88,99-100,102-121,135-143
+  s_86c2720e1e5f85::t_8ed4ac563150f3 8-9,18-21,23-27,29-31,40,44,48,52,56,59-60,64,73-74,77,89-98,101,122-134
+  s_86c2720e1e5f85::t_f50a780ddb7d59 10,28,50-51,53-54,58
+src/main/java/com/rahilsh/pubsub/api/Subscriber.java
+  s_86c2720e1e5f85::t_8fe4be22a6e902 1-28
+src/test/java/com/rahilsh/pubsub/subscriber/SubscriberTest.java
+  s_86c2720e1e5f85::t_810677054bcd4d 1-49
+.github/workflows/maven.yml
+  s_86c2720e1e5f85::t_373704daf25996 1-2,4,12-14,20-38
+CHANGELOG.md
+  s_86c2720e1e5f85::t_84fd5c79c04ff4 15-19
+  s_86c2720e1e5f85::t_9b96f31d5e7803 1-13,22-27,32-34
+  s_86c2720e1e5f85::t_0c776b347ad577 28-31
+  s_86c2720e1e5f85::t_986c3d8b249d7f 14,20-21
+.github/PULL_REQUEST_TEMPLATE.md
+  s_86c2720e1e5f85::t_5547723b23a221 1-22
+src/main/java/com/rahilsh/pubsub/Main.java
+  s_86c2720e1e5f85::t_2de39616add4ab 1-15,17-29,32-34
+  s_86c2720e1e5f85::t_7f34eb1d394461 16,30-31
+.gitignore
+  s_86c2720e1e5f85::t_be31675968882d 1,3-4,6-9,11-13
+src/main/java/com/rahilsh/pubsub/subscriber/ConsoleSubscriber.java
+  s_86c2720e1e5f85::t_aa93588f6a884d 1-35
+.github/dependabot.yml
+  s_86c2720e1e5f85::t_67a4f0e3d2d35c 1-12
+SECURITY.md
+  s_86c2720e1e5f85::t_9a00782ddce5fd 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "bc0d297fcb01d5bf07c738ac1f9149547ded33d5",
+  "prompts": {},
+  "sessions": {
+    "s_86c2720e1e5f85": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_042fb667cffeNF0rX1mITHgfT2",
+        "model": "claude-opus-4.8-fast"
+      },
+      "human_author": "Rahil <rahilrshk@gmail.com>"
+    }
+  }
+}
