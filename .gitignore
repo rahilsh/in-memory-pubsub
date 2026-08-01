@@ -1,3 +1,13 @@
+# Logs
 *.log
+
+# IDE
 .idea/
+*.iml
+.vscode/
+
+# Build output
 target/
+
+# OS
+.DS_Store
