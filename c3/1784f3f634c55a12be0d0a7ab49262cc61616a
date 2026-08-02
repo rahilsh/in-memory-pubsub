@@ -1,0 +1,14 @@
+README.md
+  h_6ca422f7d88004 11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "c31784f3f634c55a12be0d0a7ab49262cc61616a",
+  "prompts": {},
+  "humans": {
+    "h_6ca422f7d88004": {
+      "author": "Rahil <rahilrshk@gmail.com>"
+    }
+  }
+}
