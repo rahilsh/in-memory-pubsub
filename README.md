@@ -8,9 +8,6 @@ A thread-safe, high-performance implementation of a Producer/Consumer messaging
 system in Java — a compact low-level-design (LLD) reference for an in-memory
 pub/sub broker.
 
-<!-- git-ai exclusion test -->
-
-
 ## Features
 
 - **Async processing** — producers are never blocked by consumer processing time.
